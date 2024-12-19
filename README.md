@@ -6,7 +6,7 @@ Création de cartes animées avec plusieurs effets au survol de cellei-ci.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/animated_responsive_cards_with_hover_effects/
 
 ## Projet développé avec
 
