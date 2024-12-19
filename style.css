@@ -140,3 +140,27 @@ h1 {
 footer p {
     font-size: 18px;
 }
+
+/**** Responsive design version tablette ****/
+
+@media screen and (max-width: 800px) {
+    .container {
+        display: block;
+    }
+
+    .card {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .image__box {
+        width: 100%;
+        left: 0;
+        top: 0;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .card:hover .image__box {
+        border-radius: 12px;
+    }
+}
