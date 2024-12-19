@@ -164,3 +164,11 @@ footer p {
         border-radius: 12px;
     }
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 572px) {
+    .card {
+        width: 100%;
+    }
+}
